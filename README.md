@@ -9,9 +9,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,ts,spring,azure,docker,kubernetes,flink&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,ts,spring,azure,docker,kubernetes,flink&theme=light" />
-  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=java,cs,ts,spring,azure,docker,kubernetes,flink&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,ts,spring,azure,docker,kubernetes,flink&theme=dark&perline=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,ts,spring,azure,docker,kubernetes,flink&theme=light&perline=4" />
+  <img alt="Tech Stack" src="https://skillicons.dev/icons?i=java,cs,ts,spring,azure,docker,kubernetes,flink&theme=dark&perline=4" />
 </picture>
 
 <br/>
