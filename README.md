@@ -32,9 +32,9 @@ Distributed systems · Cloud infra · Stream processing
 **Cloud & Infrastructure**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Cflink&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Cflink&theme=light" />
-  <img alt="Cloud & Infrastructure" src="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Cflink&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Ckafka&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Ckafka&theme=light" />
+  <img alt="Cloud & Infrastructure" src="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Ckafka&theme=dark" />
 </picture>
 
   </td>
