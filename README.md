@@ -21,9 +21,9 @@ Distributed systems · Cloud infra · Stream processing
 **Languages & Frameworks**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,ts,spring&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,ts,spring&theme=light" />
-  <img alt="Languages & Frameworks" src="https://skillicons.dev/icons?i=java,cs,ts,spring&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Ccs%2Cts%2Cspring&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Ccs%2Cts%2Cspring&theme=light" />
+  <img alt="Languages & Frameworks" src="https://skillicons.dev/icons?i=java%2Ccs%2Cts%2Cspring&theme=dark" />
 </picture>
 
   </td>
@@ -32,9 +32,9 @@ Distributed systems · Cloud infra · Stream processing
 **Cloud & Infrastructure**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,docker,kubernetes,flink&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure,docker,kubernetes,flink&theme=light" />
-  <img alt="Cloud & Infrastructure" src="https://skillicons.dev/icons?i=azure,docker,kubernetes,flink&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Cflink&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Cflink&theme=light" />
+  <img alt="Cloud & Infrastructure" src="https://skillicons.dev/icons?i=azure%2Cdocker%2Ckubernetes%2Cflink&theme=dark" />
 </picture>
 
   </td>
